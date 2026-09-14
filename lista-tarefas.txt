@@ -1,0 +1,4 @@
+Instalar o VS Code e o Git
+Criar conta no GitHub
+Praticar os comandos de commits e branches
+Enviar o exercício
